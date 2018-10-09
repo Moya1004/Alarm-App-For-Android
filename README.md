@@ -1,5 +1,5 @@
 # FinansalBT
 Alarming App
 
-LINK TO The Project: https://github.com/AlarmingBT/AlarmingUygulamasi
+Details and Project Files Can be Found in the following LinK: https://github.com/AlarmingBT/AlarmingUygulamasi
 
